@@ -1,16 +1,40 @@
-## Hi there 👋
+# Olá! Eu sou Ana Manuela 👋
 
-<!--
-**Ana-manuela1/Ana-manuela1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo meus conhecimentos em Front-end e Banco de Dados, com conhecimentos básicos em HTML, Python, Git e GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em Business Intelligence (BI) e Análise de Dados, buscando aprender a transformar dados em informações relevantes para apoiar decisões.
+
+## 🎯 Objetivos profissionais
+
+- Dominar SQL e aprender a trabalhar com bancos de dados.
+- Aprender Python aplicado à análise de dados.
+- Desenvolver domínio em Excel e Power BI.
+- Aprimorar minha comunicação e capacidade de apresentar resultados.
+- Conquistar uma oportunidade de estágio na área de Dados.
+
+## 💻 Conhecimentos técnicos
+
+- HTML
+- Python
+- Git e GitHub
+- Front-end (em aprendizado)
+- Banco de Dados (em aprendizado)
+
+## 🤝 Competências comportamentais
+
+- Trabalho em equipe
+- Comunicação
+- Resolução de problemas
+- Aprendizagem contínua
+
+## 🌱 Atualmente estudando
+
+- Desenvolvimento Front-end
+- Banco de Dados
+- Business Intelligence
+
+## 📫 Contato
+
+- GitHub: [Ana-manuela1](https://github.com/Ana-manuela1)
